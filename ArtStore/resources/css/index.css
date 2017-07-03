@@ -1,0 +1,33 @@
+*  {
+  font-family: Helvetica;
+}
+
+h1  {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("file:///Users/klewis1/Sites/code%20academy/projects/ArtStore/resources/images/pattern.jpeg");
+}
+
+h2  {
+  font-size:32px;
+  font-weight: bold;
+  color:white;
+}
+
+#brushes  {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint  {
+  background-color: skyblue;
+}
+
+.price {
+  color: blue;
+}
